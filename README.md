@@ -4,7 +4,7 @@ My first repository!
 
 Hello, I'm Bharathi, and I'm passionate about data science and its potential to drive meaningful insights from data. With a background in MSc Biotechnology, I've always been fascinated by the intersection of biology and data. Currently, I'm on a journey to become a data scientist, and I'm actively learning and applying R programming to this exciting field. Here's a bit more about me:
 
-- 📊 **Data Enthusiast**: I have a strong foundation in the life sciences, and I'm excited to apply data science techniques to solve complex problems in this domain. My journey into data science began with a curiosity about the stories data can tell in the world of biotechnology.
+- 📊 **Data Enthusiast**: I have a strong foundation in the life sciences, and I'm excited to apply data science techniques to solve complex problems in this domain. My journey into data science began with a curiosity about the stories data can tell in the world of biotechnology. 
 
 - 📚 **Continuous Learner**: I believe in the importance of lifelong learning. I'm actively enhancing my skills in R programming, which is a powerful tool for data analysis and visualization.
 
